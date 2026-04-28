@@ -1,2 +1,1 @@
-# A-Time-Series-Model-Comparison-for-High-Frequency-Power-Usage-Prediction-Across-Multiple-Zones
-This project compares ARIMA, Prophet, and VAR models for short-term power demand forecasting using 10-minute interval electricity and weather data across 3 zones. ARIMA handles single-zone forecasting, Prophet captures seasonality, and VAR analyzes cross-zone dependencies using RMSE and MAE evaluation.
+A Machine Learning Project for Power Usage Prediction across Multiple zones.

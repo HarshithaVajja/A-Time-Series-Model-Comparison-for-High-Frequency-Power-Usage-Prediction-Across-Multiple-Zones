@@ -1,4 +1,4 @@
-A Machine Learning Project
+
 # A Time Series Model Comparison for High Frequency Power Usage Prediction Across Multiple Zones
 
 This project compares multiple time series forecasting models such as:

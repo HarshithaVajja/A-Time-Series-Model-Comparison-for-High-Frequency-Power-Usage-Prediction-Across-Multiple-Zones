@@ -4,10 +4,8 @@
 This project compares multiple time series forecasting models such as:
 
 - ARIMA
-- SARIMA
-- LSTM
-- XGBoost
-- Prophet (if used)
+- PROPHET
+- VAR
 
 for high-frequency power usage prediction across multiple zones.
 
@@ -15,4 +13,4 @@ Dataset:
 Power consumption dataset across multiple zones.
 
 Goal:
-To identify the best forecasting model based on RMSE, MAE, and MAPE.
+To identify the best forecasting model based on RMSE, MAE.

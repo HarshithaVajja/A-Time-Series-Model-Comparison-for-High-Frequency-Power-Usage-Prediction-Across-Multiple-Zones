@@ -1,1 +1,18 @@
-A Machine Learning Project for Power Usage Prediction across Multiple zones.
+A Machine Learning Project
+# A Time Series Model Comparison for High Frequency Power Usage Prediction Across Multiple Zones
+
+This project compares multiple time series forecasting models such as:
+
+- ARIMA
+- SARIMA
+- LSTM
+- XGBoost
+- Prophet (if used)
+
+for high-frequency power usage prediction across multiple zones.
+
+Dataset:
+Power consumption dataset across multiple zones.
+
+Goal:
+To identify the best forecasting model based on RMSE, MAE, and MAPE.
